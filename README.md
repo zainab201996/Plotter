@@ -18,8 +18,14 @@ Following are the elements rendered onto the main screen:
 3. An alert message in the form of text which says Syntax with red color. It disappears when the syntax is correctly entered.
 
 Syntax:
+
+
 For circle: c cx cy radius
+
+
 For rectangle: r rx ry width height
+
+
 For polygon: p px1,py1 px2,py2 px3,py3 ..... pxn,pyn
 
 
